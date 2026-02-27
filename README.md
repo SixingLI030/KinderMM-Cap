@@ -38,14 +38,15 @@ To address these issues, we propose:
 
 ### Directory Structure (Example)
 
-ECAC \n
-├── images\n
-├── annotations\n
-│ ├── captions.json\n
-│ ├── toy_labels.json\n
-│ └── region_labels.json\n
-└── splits
-
+```
+ECAC/
+├── images/
+├── annotations/
+│   ├── captions.json
+│   ├── toy_labels.json
+│   └── region_labels.json
+└── splits/
+```
 
 ### Download
 
